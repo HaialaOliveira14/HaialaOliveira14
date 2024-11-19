@@ -35,7 +35,7 @@
 </body>
 </html>
 
-<style>
+
 
 /* Reset básico */
 * {
@@ -144,5 +144,3 @@ footer {
     }
 }
 
-
-</style>
