@@ -38,12 +38,3 @@
 Siga minhas aventuras no universo da programação pelas redes acima ou explore meus projetos diretamente no GitHub! ✨
 
 
-# 🌌 Olá! Eu sou [Seu Nome] 🖐️
-
-[![Meu Portfólio](https://img.shields.io/website?label=MeuPortfólio.com&style=for-the-badge&url=https://seuportifolio.com)](https://seuportifolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
-
-
-
