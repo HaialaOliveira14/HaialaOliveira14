@@ -1,5 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaialaOliveira14&theme=radical)
-
+![Background Image](https://wallpapercave.com/wp/wp4650134.jpg)
 # 🌌 Olá! Eu sou o Haiala 🖐️
 
 [![Meu Portfólio](https://img.shields.io/website?label=MeuPortfólio.com&style=for-the-badge&url=https://seuportifolio.com)](https://seuportifolio.com)
